@@ -21,7 +21,7 @@ Interface Design/ Semester 5
 
 <p><a href="https://github.com/LeonieSchwall/IFD/blob/main/UXPin_von_Leonie_Schwall.pdf" target="_blank">Prototyping Tool UXPin</a></p>
 
-<p><a href="https://github.com/LeonieSchwall/IFD/blob/main/Low Fidelity Prototyping.pdf" target="_blank">Low Fidelity Prototyp</a></p>#
+<p><a href="https://github.com/LeonieSchwall/IFD/blob/main/Low Fidelity Prototyping.pdf" target="_blank">Low Fidelity Prototyp</a></p>
 
 <h2 id="task-04">Task 05</h2>
 
