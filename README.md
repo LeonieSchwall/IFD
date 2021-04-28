@@ -26,3 +26,5 @@ Interface Design/ Semester 5
 <h2 id="task-04">Task 05</h2>
 
 <p><a href="https://xd.adobe.com/view/d6740c49-a912-4eeb-a239-1f333dc68ac3-8327/" target="_blank">High Fid Prototype</a></p>
+
+<p><a href="https://github.com/LeonieSchwall/IFD/blob/main/High Fid Prototype Dokumentation.pdf" target="_blank">High Fid Prototype Dokumentation</a></p>
