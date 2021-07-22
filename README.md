@@ -51,3 +51,9 @@ Interface Design/ Semester 5
 <p><a href="https://xd.adobe.com/view/3be320ce-7943-4034-b744-3820e648e0f4-6eb0/" target="_blank">VUI Prototype</a></p>
 
 <p><a href="https://github.com/LeonieSchwall/IFD/blob/main/VUI-Prototyp-Screencast.mp4" target="_blank">Screencast</a></p>
+
+<h2 id="task-06">Endabgabe</h2>
+
+<p><a href="https://xd.adobe.com/view/1adf3ec4-2cd8-43ef-8533-b6ac9a340f11-4f8c/ " target="_blank">GUI Prototyp</a></p>
+
+
