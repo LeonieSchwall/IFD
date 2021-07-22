@@ -54,6 +54,6 @@ Interface Design/ Semester 5
 
 <h2 id="task-06">Endabgabe</h2>
 
-<p><a href="https://xd.adobe.com/view/1adf3ec4-2cd8-43ef-8533-b6ac9a340f11-4f8c/ " target="_blank">GUI Prototyp</a></p>
+<p><a href="https://xd.adobe.com/view/1adf3ec4-2cd8-43ef-8533-b6ac9a340f11-4f8c/?fullscreen&hints=off " target="_blank">GUI Prototyp</a></p>
 
 
